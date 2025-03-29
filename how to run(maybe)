@@ -1,0 +1,4 @@
+1. download file
+2. go to terminal with JDK
+3. compile with javac PixelBuffer.java
+4. run with java PixelBuffer
