@@ -1,4 +1,1 @@
-To run:
-1. Download file
-2. Go into terminal with JDK(Java Developer Kit)
-3. Compile wit javac 
+This is an ascii graphics program I made to mimic a pixel buffer. Different random ascii characters are displayed on screen, meant to mimic pixels being set to different colors. A 2d array was used to store the charcaters to display also.
